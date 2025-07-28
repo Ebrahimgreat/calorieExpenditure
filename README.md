@@ -1,3 +1,7 @@
+
+# TDEE Calculater
+This is a web based Total Daily Energy Expenditure Calculator built with Phenoix Live view. Users can input their name, age, sex, height, weight, and activity level to calculate their bmr and TDEE. The app displays all the entries in a table and brodcasts every time a record is inserted so both users can see a record in real time.
+
 # ElixirProject
 
 To start your Phoenix server:
